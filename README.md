@@ -54,7 +54,7 @@ Model evaluation results are presented below:
 
 > These results show the model's capability to classify handwritten characters with decent performance.
 
-![Confusion Matrix](images/confusion-matrix.png)
+![Confusion Matrix](image/confusion-matrix.png)
 
 ---
 
