@@ -68,7 +68,7 @@ Model evaluation results are presented below:
 ---
 
 ## 🎥 Link Video
-👉 [Link](https://www.kaggle.com/datasets/crawford/emnist)
+👉 [Link](https://youtu.be/eGKAzrgFtG0?si=4_pto_BSlB5AX6Wf)
 
 
 ## 🛠️ Installation
