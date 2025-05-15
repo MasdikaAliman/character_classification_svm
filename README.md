@@ -1,4 +1,4 @@
-# 🧠 Character Classification using SVM
+# 🧠 Character Classification using HOG and Support Vector Machine (SVM)
 
 This repository contains the source code for a character classification project developed as part of the **Computer Vision (RE604)** coursework.
 
@@ -55,7 +55,7 @@ Model evaluation results are presented below:
 > These results show the model's capability to classify handwritten characters with decent performance.
 
 ![Confusion Matrix](image/conf_matrix_loocv.png)
-
+![Test Model](image/results.png)
 ---
 
 ## 👤 Biodata
